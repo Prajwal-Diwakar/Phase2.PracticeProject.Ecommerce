@@ -8,7 +8,7 @@ import java.sql.Statement;
 
 import org.testng.annotations.Test;
 
-import com.practiceProject.ecommerce.ProductStockCount;
+
 
 public class StockCountCheck {
 	
