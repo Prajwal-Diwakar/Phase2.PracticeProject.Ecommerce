@@ -57,12 +57,7 @@
 			<scope>test</scope>
 		</dependency>
 		
-		<dependency>
-        <groupId>org.testng</groupId>
-        <artifactId>testng</artifactId>
-        <version>7.4.0</version> <!-- Use the appropriate version -->
-        <scope>test</scope>
-    </dependency>
+		
 
 		<!-- selenium-java -->
 		<dependency>
